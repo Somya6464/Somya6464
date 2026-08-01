@@ -71,19 +71,25 @@ Delivered real-world functionality including live location tracking, route visua
 
 | Product | Problem space | Selected engineering scope |
 | --- | --- | --- |
+| [Pinnacle Connect](https://play.google.com/store/apps/details?id=com.pinnacleconnect) | HRMS System | HR requests, Geo ppunching, Approval cycle, Payroll and suitable for Gulf Processes|
+| [Exercise Alarm](https://play.google.com/store/apps/details?id=com.excersize_alarm_app) | Fitness utility | Spotify integration, alarms, background behavior, and native-level challenges |
 | [Assist](https://play.google.com/store/apps/details?id=au.com.roadservices.assist) | Roadside assistance | Service requests, location-aware workflows, and real-time job tracking |
 | [SPS Nexus](https://play.google.com/store/apps/details?id=com.spsnexus) | Enterprise workplace services | Service-request workflows and enterprise integrations |
-| [Anchor eMitra](https://play.google.com/store/apps/details?id=com.panasonic.anchor) | Dealer operations | Orders, invoices, inventory, account management, and payments |
+| [Anchor eMitra (Penasonic)](https://play.google.com/store/apps/details?id=com.panasonic.anchor) | Dealer operations | Orders, invoices, inventory, account management, and payments |
 | [NETWOXX](https://play.google.com/store/apps/details?id=com.netwoxx.app) | Marketplace and social commerce | Classified listings, discovery, messaging, and location-based experiences |
-| [HoneyBay](https://play.google.com/store/apps/details?id=com.honeybae.android.honey_bae_dating_app) | Social and dating | Consumer mobile journeys and production application development |
-| [Dotsquares APMS](https://play.google.com/store/apps/details?id=com.dotsquares.apms.app) | Employee and project management | Tasks, team collaboration, project communication, and notifications |
-| [Exercise Alarm](https://play.google.com/store/apps/details?id=com.excersize_alarm_app) | Fitness utility | Spotify integration, alarms, background behavior, and native-level challenges |
-| [PartyPal](https://play.google.com/store/apps/details?id=com.partypal.user) | Events | Event discovery, booking, and ticket management |
 | [Polaris Smart Gas](https://play.google.com/store/apps/details?id=com.polarisgas.gas.app) | Smart metering | Meter readings, usage visibility, and billing workflows |
 | [Gas Meter Technician](https://play.google.com/store/apps/details?id=com.polarisgas.technician) | IoT field operations | BLE device communication, meter updates, connection control, and billing |
+| [HoneyBay](https://play.google.com/store/apps/details?id=com.honeybae.android.honey_bae_dating_app) | Social and dating | Consumer mobile journeys and production application development |
+| [Dotsquares APMS](https://play.google.com/store/apps/details?id=com.dotsquares.apms.app) | Employee and project management | Tasks, team collaboration, project communication, and notifications |
+| [PartyPal](https://play.google.com/store/apps/details?id=com.partypal.user) | Events | Event discovery, booking, and ticket management |
 | [Asphalt Group-IQ](https://play.google.com/store/apps/details?id=com.asphalt_group_iq) | Carbon and compliance | NFC-enabled data capture and carbon-emissions workflows |
 | [Subbie](https://play.google.com/store/apps/details?id=com.subbie.company) | Trade services marketplace | Job booking and Mapbox-based map clustering |
 | [Gradko](https://play.google.com/store/apps/details?id=com.gradko.gradko_app) | Laboratory operations | Medical tube tracking with offline storage and API synchronization |
+| [AiionGold](https://play.google.com/store/apps/details?id=com.aiiongold.cerd_clone) | Buy Digital Gold with crypto payment methods and Earn ROI | AIIONGOLD gives you access to 24K pure (99.99%) digital gold, available to buy, store, and grow anytime, anywhere. |
+| [LimoMate](https://play.google.com/store/apps/details?id=com.southerncross.mylimomate) | Car service (cab services) | The easiest way to book professional, reliable car services in just four simple steps. Whether you're traveling for business, leisure, or need a seamless airport transfer, we’ve got you covered. |
+| [AI Core CRM (Effica)](https://play.google.com/store/apps/developer?id=AI+CORE+CRM) | AI Integrated CRM Software | 
+Effica Tree is a comprehensive mobile app designed specifically for support workers in the non-medical care sector. It simplifies daily rostering, task management, and communication, allowing staff to focus on providing quality support. As part of the Effica platform, Effica Tree promotes transparency, efficiency, and compliance in care delivery operations. |
+| [Media Carnet (Carnet Pro)](https://play.google.com/store/apps/details?id=com.carnetpro.customer) | ATA Carnet and port pass application | Carnet Pro is a secure customer portal for creating, managing and tracking ATA Carnet and port pass applications. |
 
 ## Experience
 
